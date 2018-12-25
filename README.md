@@ -1,2 +1,1 @@
-# Python3WebSpider
-Python3网络爬虫实战
+# Get Ajax data from weibo
